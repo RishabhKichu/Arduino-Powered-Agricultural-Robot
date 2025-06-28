@@ -45,6 +45,18 @@ A low-cost, multi-functional field robot designed for basic agricultural tasks l
 
 ---
 
+## 📸 Preview
+
+![AgriBot](./Showcase/topagri.jpg)
+![AgriBot](./Showcase/sideagri.jpg)
+
+1. **Seed Dispensing Mechanism** – Uses a screw-based feeder controlled by a servo motor to release seeds in controlled quantities.
+2. **Water Dispensing System** – A mini water pump draws water from a small tank to irrigate based on sensor data. 
+3. **Moisture Sensing System** – Rack-and-pinion system lowers a soil moisture sensor into the ground to take readings.  
+
+For video of the working of the seed dispensing system, click ![Here](./Showcase/seed-dispensing-system.mp4)
+
+---
 ## 🎯 Purpose & Limitations
 
 This project was built as a **conceptual prototype** for a science exhibition, aimed at demonstrating low-cost automation in agriculture. It served to:
@@ -59,17 +71,3 @@ This project was built as a **conceptual prototype** for a science exhibition, a
 - Power and component selection was optimized for portability, not durability
 
 ---
-
-## 📸 Preview
-
-![AgriBot](./Showcase/topagri.jpg)
-![AgriBot](./Showcase/sideagri.jpg)
-
-1. **Seed Dispensing Mechanism** – Uses a screw-based feeder controlled by a servo motor to release seeds in controlled quantities.
-2. **Water Dispensing System** – A mini water pump draws water from a small tank to irrigate based on sensor data. 
-3. **Moisture Sensing System** – Rack-and-pinion system lowers a soil moisture sensor into the ground to take readings.  
-
-![AgriBot](./Showcase/seed-dispensing-system.mp4)
-
----
-
