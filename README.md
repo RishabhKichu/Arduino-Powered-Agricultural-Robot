@@ -62,7 +62,14 @@ This project was built as a **conceptual prototype** for a science exhibition, a
 
 ## 📸 Preview
 
-![AgriBot](./Images/agrobot.jpg)
+![AgriBot](./Showcase/topagri.jpg)
+![AgriBot](./Showcase/sideagri.jpg)
+
+1. **Seed Dispensing Mechanism** – Uses a screw-based feeder controlled by a servo motor to release seeds in controlled quantities.
+2. **Water Dispensing System** – A mini water pump draws water from a small tank to irrigate based on sensor data. 
+3. **Moisture Sensing System** – Rack-and-pinion system lowers a soil moisture sensor into the ground to take readings.  
+
+![AgriBot](./Showcase/seed-dispensing-system.mp4)
 
 ---
 
